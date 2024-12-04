@@ -1,0 +1,7 @@
+C:\Users\Rog\source\repos\Practika05.11\Practika05.11\obj\Debug\net8.0-windows\Practika05._11.MainForm.resources
+C:\Users\Rog\source\repos\Practika05.11\Practika05.11\obj\Debug\net8.0-windows\Practika05.11.csproj.GenerateResource.cache
+C:\Users\Rog\source\repos\Practika05.11\Practika05.11\obj\Debug\net8.0-windows\Practika05.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\Practika05.11\Practika05.11\obj\Debug\net8.0-windows\Practika05.11.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\Practika05.11\Practika05.11\obj\Debug\net8.0-windows\Practika05.11.AssemblyInfo.cs
+C:\Users\Rog\source\repos\Practika05.11\Practika05.11\obj\Debug\net8.0-windows\Practika05.11.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\Practika05.11\Practika05.11\obj\Debug\net8.0-windows\Practika05._11.Form1.resources
